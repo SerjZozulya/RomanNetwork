@@ -1,0 +1,25 @@
+{
+  "files": {
+    "main.css": "/RomanNetwork/static/css/main.5418b819.chunk.css",
+    "main.js": "/RomanNetwork/static/js/main.3a484d30.chunk.js",
+    "main.js.map": "/RomanNetwork/static/js/main.3a484d30.chunk.js.map",
+    "runtime-main.js": "/RomanNetwork/static/js/runtime-main.25255e61.js",
+    "runtime-main.js.map": "/RomanNetwork/static/js/runtime-main.25255e61.js.map",
+    "static/js/2.d1b3badb.chunk.js": "/RomanNetwork/static/js/2.d1b3badb.chunk.js",
+    "static/js/2.d1b3badb.chunk.js.map": "/RomanNetwork/static/js/2.d1b3badb.chunk.js.map",
+    "index.html": "/RomanNetwork/index.html",
+    "static/css/main.5418b819.chunk.css.map": "/RomanNetwork/static/css/main.5418b819.chunk.css.map",
+    "static/js/2.d1b3badb.chunk.js.LICENSE.txt": "/RomanNetwork/static/js/2.d1b3badb.chunk.js.LICENSE.txt",
+    "static/media/avatar.467f4a2c.jpg": "/RomanNetwork/static/media/avatar.467f4a2c.jpg",
+    "static/media/del.01abcba8.png": "/RomanNetwork/static/media/del.01abcba8.png",
+    "static/media/edit.0423e905.jpg": "/RomanNetwork/static/media/edit.0423e905.jpg",
+    "static/media/header.9d76cbd7.jpg": "/RomanNetwork/static/media/header.9d76cbd7.jpg",
+    "static/media/plus.96dc0911.svg": "/RomanNetwork/static/media/plus.96dc0911.svg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.25255e61.js",
+    "static/js/2.d1b3badb.chunk.js",
+    "static/css/main.5418b819.chunk.css",
+    "static/js/main.3a484d30.chunk.js"
+  ]
+}
